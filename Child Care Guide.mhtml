@@ -1,0 +1,1399 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-12476879f7c0d015c3089c73d17d87fa014506d4/MyFiles/Downloads/child-care-guide-app.html
+Subject: Child Care Guide
+Date: Sat, 20 Jun 2026 07:25:30 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Js3oCok482xiac5K1FG2Z9skcxVQvhODYBEOjPUcT2----"
+
+
+------MultipartBoundary--Js3oCok482xiac5K1FG2Z9skcxVQvhODYBEOjPUcT2----
+Content-Type: text/html
+Content-ID: <frame-A09416F0216DC92045228B566FC00B9F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-12476879f7c0d015c3089c73d17d87fa014506d4/MyFiles/Downloads/child-care-guide-app.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-fee1dbfa-81b6-4b4e-9c1d-94568c8963c7@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>Child Care Guide</title>
+<link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/tab=
+ler-icons/2.47.0/tabler-icons.min.css">
+
+</head>
+<body>
+
+<div class=3D"device">
+  <div class=3D"notch"></div>
+  <div class=3D"statusbar">
+    <span id=3D"clock">7:25</span>
+    <div class=3D"statusbar-icons">
+      <i class=3D"ti ti-signal-3g" style=3D"font-size:14px"></i>
+      <i class=3D"ti ti-wifi" style=3D"font-size:14px"></i>
+      <i class=3D"ti ti-battery-3" style=3D"font-size:14px"></i>
+    </div>
+  </div>
+
+  <!-- =E2=96=88=E2=96=88=E2=96=88=E2=96=88 HOME =E2=96=88=E2=96=88=E2=96=
+=88=E2=96=88 -->
+  <div class=3D"screen active" id=3D"screen-home">
+    <div class=3D"home-header">
+      <div class=3D"header-top">
+        <div>
+          <div class=3D"greet-label">Welcome back</div>
+          <div class=3D"greet-name" id=3D"home-greeting">Hi, Rayyan!</div>
+        </div>
+        <div style=3D"display:flex;gap:8px;position:relative">
+          <div class=3D"header-btn">
+            <i class=3D"ti ti-phone-call"></i>
+          </div>
+          <div class=3D"header-btn" style=3D"position:relative">
+            <i class=3D"ti ti-bell"></i>
+            <span class=3D"dot"></span>
+          </div>
+        </div>
+      </div>
+      <div class=3D"child-row" id=3D"child-switcher"><div class=3D"child-ch=
+ip active"><div class=3D"avatar" style=3D"width: 30px; height: 30px; font-s=
+ize: 12px; background: rgb(27, 122, 90);">R</div><div><span class=3D"chip-n=
+ame">Rayyan</span><span class=3D"chip-age">2 yr 6 mo</span></div></div><div=
+ class=3D"child-chip"><div class=3D"avatar" style=3D"width: 30px; height: 3=
+0px; font-size: 12px; background: rgb(61, 127, 191);">K</div><div><span cla=
+ss=3D"chip-name">Kinza Fatima</span><span class=3D"chip-age">3 mo</span></d=
+iv></div><div class=3D"add-chip"><i class=3D"ti ti-plus"></i></div></div>
+    </div>
+
+    <div class=3D"scroll">
+      <div class=3D"pad">
+
+        <div id=3D"home-alert"><div class=3D"alert-banner" style=3D"backgro=
+und:var(--mint2)"><div class=3D"alert-icon" style=3D"background:var(--green=
+);color:#fff"><i class=3D"ti ti-heart"></i></div><div><div class=3D"alert-t=
+itle" style=3D"color:var(--green-dark)">Rayyan's health looks on track</div=
+><div class=3D"alert-text" style=3D"color:var(--pine-soft)">Keep logging gr=
+owth and vaccines to stay up to date.</div></div></div></div>
+
+        <div class=3D"sh"><div class=3D"sh-title">Quick actions</div></div>
+        <div class=3D"bubble-grid">
+          <div class=3D"bubble" style=3D"color:var(--blue)">
+            <div class=3D"bubble-circle" style=3D"background:linear-gradien=
+t(135deg,#E7F0FA,#C8DFF5);color:var(--blue)"><i class=3D"ti ti-ruler-2"></i=
+></div>
+            <div class=3D"bubble-label">Log growth</div>
+          </div>
+          <div class=3D"bubble" style=3D"color:#C06030">
+            <div class=3D"bubble-circle" style=3D"background:linear-gradien=
+t(135deg,#FBE9E0,#F7D5C4);color:#C06030"><i class=3D"ti ti-pill"></i></div>
+            <div class=3D"bubble-label">Add medicine</div>
+          </div>
+          <div class=3D"bubble" style=3D"color:var(--purple)">
+            <div class=3D"bubble-circle" style=3D"background:linear-gradien=
+t(135deg,#EEE9FB,#D9CFF5);color:var(--purple)"><i class=3D"ti ti-stethoscop=
+e"></i></div>
+            <div class=3D"bubble-label">Symptom check</div>
+          </div>
+          <div class=3D"bubble" style=3D"color:var(--green-dark)">
+            <div class=3D"bubble-circle" style=3D"background:linear-gradien=
+t(135deg,#E2F5EC,#C5EBD6);color:var(--green-dark)"><i class=3D"ti ti-vaccin=
+e"></i></div>
+            <div class=3D"bubble-label">Add vaccine</div>
+          </div>
+          <div class=3D"bubble" style=3D"color:var(--red)">
+            <div class=3D"bubble-circle" style=3D"background:linear-gradien=
+t(135deg,#FBE7E7,#F5C8C8);color:var(--red)"><i class=3D"ti ti-phone"></i></=
+div>
+            <div class=3D"bubble-label">Emergency</div>
+          </div>
+          <div class=3D"bubble" style=3D"color:var(--amber)">
+            <div class=3D"bubble-circle" style=3D"background:linear-gradien=
+t(135deg,#FAF0DD,#F5E0B0);color:var(--amber)"><i class=3D"ti ti-apple"></i>=
+</div>
+            <div class=3D"bubble-label">Healthy food</div>
+          </div>
+        </div>
+
+        <div class=3D"sh"><div class=3D"sh-title">Today's reminders</div><d=
+iv class=3D"sh-link">All <i class=3D"ti ti-chevron-right"></i></div></div>
+
+        <div class=3D"card card-pad" id=3D"home-reminders">
+      <div class=3D"reminder-row">
+        <div class=3D"reminder-time">=E2=80=94</div>
+        <div class=3D"reminder-pulse" style=3D"background:var(--green)"></d=
+iv>
+        <div style=3D"flex:1"><div class=3D"reminder-title">d max  =E2=80=
+=94 2 drops</div></div>
+        <div class=3D"check-circle"><i class=3D"ti ti-"></i></div>
+      </div></div>
+
+        <div class=3D"sh"><div class=3D"sh-title">Growth snapshot</div><div=
+ class=3D"sh-link">Details <i class=3D"ti ti-chevron-right"></i></div></div=
+>
+        <div class=3D"stat-grid" id=3D"home-stats">
+    <div class=3D"stat-card"><div class=3D"stat-icon-wrap" style=3D"backgro=
+und:var(--blue-soft);color:var(--blue)"><i class=3D"ti ti-scale"></i></div>=
+<div class=3D"stat-val">10 kg</div><div class=3D"stat-lbl">Latest weight</d=
+iv></div>
+    <div class=3D"stat-card"><div class=3D"stat-icon-wrap" style=3D"backgro=
+und:var(--mint2);color:var(--green-dark)"><i class=3D"ti ti-ruler"></i></di=
+v><div class=3D"stat-val">=E2=80=94</div><div class=3D"stat-lbl">Latest hei=
+ght</div></div></div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- =E2=96=88=E2=96=88=E2=96=88=E2=96=88 GROWTH =E2=96=88=E2=96=88=E2=96=
+=88=E2=96=88 -->
+  <div class=3D"screen" id=3D"screen-growth">
+    <div class=3D"screen-header">
+      <div id=3D"growth-avatar"></div>
+      <div><div class=3D"screen-title">Growth tracker</div><div class=3D"sc=
+reen-sub" id=3D"growth-sub">=E2=80=94</div></div>
+    </div>
+    <div class=3D"scroll">
+      <div class=3D"pad">
+        <div class=3D"seg">
+          <div class=3D"seg-tab active">Chart</div>
+          <div class=3D"seg-tab">Log</div>
+          <div class=3D"seg-tab">Milestones</div>
+        </div>
+
+        <div id=3D"growth-chart-view">
+          <div class=3D"card card-pad">
+            <div class=3D"chart-legend">
+              <div class=3D"legend-label"><span class=3D"legend-dot" style=
+=3D"background:var(--green)"></span>Weight</div>
+              <div class=3D"legend-label"><span class=3D"legend-dot" style=
+=3D"background:var(--blue)"></span>Height</div>
+            </div>
+            <svg id=3D"growth-svg" viewBox=3D"0 0 320 140" width=3D"100%" h=
+eight=3D"140" style=3D"margin-top:4px"></svg>
+            <div style=3D"display:flex;justify-content:space-between;font-s=
+ize:9.5px;color:var(--pine-soft);margin-top:4px" id=3D"chart-labels"></div>
+            <div id=3D"growth-pill" class=3D"pct-pill" style=3D"background:=
+var(--mint2);color:var(--green-dark)"><i class=3D"ti ti-trending-up" style=
+=3D"font-size:14px"></i><span>Log entries to see the chart</span></div>
+          </div>
+        </div>
+
+        <div id=3D"growth-log-view" style=3D"display:none">
+          <div class=3D"card card-pad" id=3D"log-list"><div class=3D"empty-=
+msg">No entries yet. Tap the button below to log weight or height.</div></d=
+iv>
+          <button class=3D"btn-primary" style=3D"margin-top:14px"><i class=
+=3D"ti ti-plus"></i> Add entry</button>
+        </div>
+
+        <div id=3D"growth-milestones-view" style=3D"display:none">
+          <div class=3D"card card-pad" id=3D"milestone-list"></div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- =E2=96=88=E2=96=88=E2=96=88=E2=96=88 HEALTH =E2=96=88=E2=96=88=E2=96=
+=88=E2=96=88 -->
+  <div class=3D"screen" id=3D"screen-health">
+    <div class=3D"screen-header">
+      <div id=3D"health-avatar"></div>
+      <div><div class=3D"screen-title">Health records</div><div class=3D"sc=
+reen-sub" id=3D"health-sub">=E2=80=94</div></div>
+    </div>
+    <div class=3D"scroll">
+      <div class=3D"pad">
+        <div class=3D"seg">
+          <div class=3D"seg-tab active">Vaccines</div>
+          <div class=3D"seg-tab">Illness guide</div>
+        </div>
+
+        <div id=3D"health-vax-view">
+          <div class=3D"card card-pad" id=3D"vax-list"><div class=3D"empty-=
+msg">No vaccines recorded yet.</div></div>
+          <button class=3D"btn-primary" style=3D"margin-top:14px"><i class=
+=3D"ti ti-plus"></i> Add vaccine</button>
+        </div>
+
+        <div id=3D"health-illness-view" style=3D"display:none"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- =E2=96=88=E2=96=88=E2=96=88=E2=96=88 MEDICINE =E2=96=88=E2=96=88=E2=
+=96=88=E2=96=88 -->
+  <div class=3D"screen" id=3D"screen-medicine">
+    <div class=3D"screen-header">
+      <div><div class=3D"screen-title">Medicine</div><div class=3D"screen-s=
+ub">Reminders =C2=B7 Symptoms =C2=B7 Database</div></div>
+    </div>
+    <div class=3D"scroll">
+      <div class=3D"pad">
+        <div class=3D"seg">
+          <div class=3D"seg-tab">Schedule</div>
+          <div class=3D"seg-tab active">By symptom</div>
+          <div class=3D"seg-tab">Database</div>
+        </div>
+        <div class=3D"seg" style=3D"margin-top:-10px">
+          <div class=3D"seg-tab" style=3D"background:var(--amber-soft);colo=
+r:#7A4F0A"><i class=3D"ti ti-prescription" style=3D"margin-right:4px"></i>P=
+rescription guide</div>
+        </div>
+        <div id=3D"med-schedule-view" style=3D"display: none;">
+          <div class=3D"sh"><div class=3D"sh-title">Active reminders</div><=
+div class=3D"sh-link"><i class=3D"ti ti-plus"></i> Add</div></div>
+          <div id=3D"med-reminders-list">
+    <div class=3D"active-med">
+      <div class=3D"active-med-icon" style=3D"background:var(--coral-soft);=
+color:#C06030"><i class=3D"ti ti-pill"></i></div>
+      <div style=3D"flex:1">
+        <div style=3D"font-size:13.5px;font-weight:800;color:var(--pine)">d=
+ max  =E2=80=94 2 drops</div>
+        <div style=3D"font-size:11.5px;color:var(--pine-soft);margin-top:1p=
+x">No time set =C2=B7 Daily</div>
+      </div>
+      <div class=3D"toggle on"></div>
+      <div style=3D"cursor:pointer;color:var(--pine-light);font-size:17px;m=
+argin-left:6px"><i class=3D"ti ti-trash"></i></div>
+    </div></div>
+        </div>
+        <div id=3D"med-symptom-view" style=3D"display: block;">
+          <div class=3D"sh"><div class=3D"sh-title">What's bothering them?<=
+/div></div>
+          <div class=3D"bubble-grid" id=3D"symptom-bubbles">
+    <div class=3D"bubble" style=3D"color:#C84B4B">
+      <div class=3D"bubble-circle" style=3D"background:#FBE7E7;color:#C84B4=
+B">=F0=9F=8C=A1=EF=B8=8F</div>
+      <div class=3D"bubble-label">Fever</div>
+    </div>
+    <div class=3D"bubble" style=3D"color:#3D7FBF">
+      <div class=3D"bubble-circle" style=3D"background:#E7F0FA;color:#3D7FB=
+F">=F0=9F=98=AE=E2=80=8D=F0=9F=92=A8</div>
+      <div class=3D"bubble-label">Cough</div>
+    </div>
+    <div class=3D"bubble" style=3D"color:#1B7A5A">
+      <div class=3D"bubble-circle" style=3D"background:#E2F5EC;color:#1B7A5=
+A">=F0=9F=A4=A7</div>
+      <div class=3D"bubble-label">Cold / flu</div>
+    </div>
+    <div class=3D"bubble" style=3D"color:#D98A1F">
+      <div class=3D"bubble-circle" style=3D"background:#FAF0DD;color:#D98A1=
+F">=F0=9F=91=83</div>
+      <div class=3D"bubble-label">Blocked nose</div>
+    </div>
+    <div class=3D"bubble" style=3D"color:#7C5CBF">
+      <div class=3D"bubble-circle" style=3D"background:#EEE9FB;color:#7C5CB=
+F">=F0=9F=8C=B8</div>
+      <div class=3D"bubble-label">Allergy / sneezing</div>
+    </div>
+    <div class=3D"bubble" style=3D"color:#E8825A">
+      <div class=3D"bubble-circle" style=3D"background:#FBE9E0;color:#E8825=
+A">=F0=9F=98=A3</div>
+      <div class=3D"bubble-label">Pain</div>
+    </div>
+    <div class=3D"bubble selected" style=3D"color:#3D7FBF">
+      <div class=3D"bubble-circle" style=3D"background:#E7F0FA;color:#3D7FB=
+F">=F0=9F=92=A7</div>
+      <div class=3D"bubble-label">Diarrhea</div>
+    </div>
+    <div class=3D"bubble" style=3D"color:#E8825A">
+      <div class=3D"bubble-circle" style=3D"background:#FBE9E0;color:#E8825=
+A">=F0=9F=A4=A2</div>
+      <div class=3D"bubble-label">Vomiting</div>
+    </div>
+    <div class=3D"bubble" style=3D"color:#7C5CBF">
+      <div class=3D"bubble-circle" style=3D"background:#EEE9FB;color:#7C5CB=
+F">=F0=9F=AB=81</div>
+      <div class=3D"bubble-label">Chest / wheezing</div>
+    </div></div>
+          <div id=3D"symptom-results"><div class=3D"sh"><div class=3D"sh-ti=
+tle">Suggested for diarrhea</div></div>
+    <div class=3D"symptom-result-card" style=3D"">
+      <div class=3D"symptom-result-header">
+        <div class=3D"symptom-result-icon" style=3D"background:#FBE9E0;colo=
+r:#A14A28"><i class=3D"ti ti-pill"></i></div>
+        <div style=3D"flex:1"><div class=3D"symptom-result-name">ORS (Oral =
+Rehydration Salts)</div><div class=3D"symptom-result-generic">Sodium chlori=
+de + potassium chloride + glucose</div></div>
+       =20
+      </div>
+      <div class=3D"ill-val" style=3D"margin-bottom:8px">Prevents and treat=
+s dehydration caused by diarrhoea and vomiting. Includes brands like Pedial=
+yte, ORS-Osmolar.</div>
+      <div class=3D"consult-pill"><i class=3D"ti ti-stethoscope" style=3D"c=
+olor:var(--green-dark);font-size:16px;margin-top:1px"></i><div class=3D"con=
+sult-text">Age: All ages including newborns. Volume given differs by age an=
+d weight.<br>Dose: 50=E2=80=93100 ml/kg over 4 hours for mild dehydration. =
+Small frequent sips. Volume to be guided by doctor.</div></div>
+     =20
+    </div><div class=3D"sh" style=3D"margin-top:18px"><div class=3D"sh-titl=
+e">=F0=9F=8F=A1 Home remedies that may help</div></div><div class=3D"card c=
+ard-pad" style=3D"margin-bottom:10px">
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--mint2);color:va=
+r(--green-dark);font-size:20px">=F0=9F=8D=8C</div>
+          <div style=3D"flex:1"><div class=3D"log-title">Banana</div><div c=
+lass=3D"log-sub">Binding, potassium-rich =E2=80=94 soothes the gut during d=
+iarrhea recovery.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--mint2);color:va=
+r(--green-dark);font-size:20px">=F0=9F=8C=BE</div>
+          <div style=3D"flex:1"><div class=3D"log-title">Ispaghol (psyllium=
+ husk)</div><div class=3D"log-sub">Mixed with water or yogurt, helps firm u=
+p loose stools.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--mint2);color:va=
+r(--green-dark);font-size:20px">=F0=9F=A5=A3</div>
+          <div style=3D"flex:1"><div class=3D"log-title">Plain curd / yogur=
+t</div><div class=3D"log-sub">Probiotics support gut recovery =E2=80=94 giv=
+e plain, unsweetened.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--mint2);color:va=
+r(--green-dark);font-size:20px">=F0=9F=8D=9A</div>
+          <div style=3D"flex:1"><div class=3D"log-title">Khichdi</div><div =
+class=3D"log-sub">Easy-to-digest rice and lentil porridge, gentle on the st=
+omach.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:none">
+          <div class=3D"log-icon" style=3D"background:var(--mint2);color:va=
+r(--green-dark);font-size:20px">=F0=9F=8C=BF</div>
+          <div style=3D"flex:1"><div class=3D"log-title">Patti zeera (cumin=
+-fennel water)</div><div class=3D"log-sub">Traditional mild digestive sooth=
+er =E2=80=94 boil and cool before giving.</div></div>
+        </div></div><div class=3D"sh" style=3D"margin-top:18px"><div class=
+=3D"sh-title">=E2=9A=95=EF=B8=8F Prescription-only =E2=80=94 ask your docto=
+r</div></div><div class=3D"card card-pad" style=3D"border-color:var(--amber=
+);margin-bottom:6px">
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--amber-soft);col=
+or:#9C6B12"><i class=3D"ti ti-prescription"></i></div>
+          <div style=3D"flex:1"><div class=3D"log-title">Entamizol / Flagyl=
+ / Flagyl Plus</div><div class=3D"log-sub">Metronidazole-based =E2=80=94 tr=
+eats amoebic or parasitic stomach infections.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--amber-soft);col=
+or:#9C6B12"><i class=3D"ti ti-prescription"></i></div>
+          <div style=3D"flex:1"><div class=3D"log-title">Biflor sachet / En=
+flor sachet</div><div class=3D"log-sub">Probiotic sachets, sometimes given =
+alongside antibiotics to support gut bacteria.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--amber-soft);col=
+or:#9C6B12"><i class=3D"ti ti-prescription"></i></div>
+          <div style=3D"flex:1"><div class=3D"log-title">Enterogermina</div=
+><div class=3D"log-sub">Probiotic supplement used to support recovery after=
+ diarrhea or antibiotic use.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:1px solid var(--line)=
+">
+          <div class=3D"log-icon" style=3D"background:var(--amber-soft);col=
+or:#9C6B12"><i class=3D"ti ti-prescription"></i></div>
+          <div style=3D"flex:1"><div class=3D"log-title">Cefixime / Cefspan=
+ / Cefiget</div><div class=3D"log-sub">Antibiotics sometimes prescribed for=
+ confirmed bacterial infections, including typhoid.</div></div>
+        </div>
+        <div class=3D"log-row" style=3D"border-bottom:none">
+          <div class=3D"log-icon" style=3D"background:var(--amber-soft);col=
+or:#9C6B12"><i class=3D"ti ti-prescription"></i></div>
+          <div style=3D"flex:1"><div class=3D"log-title">Zincat (Zinc)</div=
+><div class=3D"log-sub">Zinc supplement, often given for 14 days alongside =
+ORS during diarrhea recovery per WHO guidance.</div></div>
+        </div></div><div class=3D"empty-msg" style=3D"padding-top:0">These =
+need a doctor's diagnosis and prescription =E2=80=94 no dose is shown here =
+because the right amount depends on what's actually being treated.</div><di=
+v class=3D"empty-msg" style=3D"text-align:center;padding-top:4px">=E2=9A=A0=
+=EF=B8=8F This is a starting point, not a diagnosis. Always confirm with a =
+doctor or pharmacist before giving any medicine.</div></div>
+        </div>
+        <div id=3D"med-database-view" style=3D"display:none">
+          <div class=3D"search-bar"><i class=3D"ti ti-search"></i><input ty=
+pe=3D"text" placeholder=3D"Search medicines=E2=80=A6" id=3D"med-search-inpu=
+t"></div>
+          <div id=3D"med-db-list"></div>
+        </div>
+        <div id=3D"med-rx-view" style=3D"display:none">
+          <div class=3D"card card-pad" style=3D"background:var(--amber-soft=
+);border:none;margin-bottom:16px">
+            <div style=3D"display:flex;gap:10px;align-items:flex-start">
+              <i class=3D"ti ti-prescription" style=3D"font-size:22px;color=
+:#9C6B12;flex-shrink:0;margin-top:1px"></i>
+              <div style=3D"font-size:12.5px;color:#7A4F0A;font-weight:600;=
+line-height:1.6">These are prescription-only medicines. No doses are shown =
+here =E2=80=94 a doctor needs to examine your child first to confirm these =
+are the right treatment. This list is just so you recognise the names and k=
+now what they're generally used for.</div>
+            </div>
+          </div>
+          <div id=3D"rx-list"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- =E2=96=88=E2=96=88=E2=96=88=E2=96=88 PROFILE =E2=96=88=E2=96=88=E2=
+=96=88=E2=96=88 -->
+  <div class=3D"screen" id=3D"screen-profile">
+    <div class=3D"screen-header">
+      <div><div class=3D"screen-title">Profile</div></div>
+    </div>
+    <div class=3D"scroll">
+      <div class=3D"pad">
+
+        <!-- profile hero -->
+        <div class=3D"profile-hero" id=3D"profile-hero">
+          <div class=3D"avatar" id=3D"profile-avatar-large" style=3D"width:=
+ 74px; height: 74px; font-size: 28px; background: rgb(27, 122, 90);">R</div=
+>
+          <div class=3D"profile-name" id=3D"profile-name-text">Rayyan</div>
+          <div class=3D"profile-sub" id=3D"profile-sub-text">Born 2023-12-1=
+9 =C2=B7 Male</div>
+          <div class=3D"profile-stats-row">
+            <div class=3D"profile-stat"><div class=3D"profile-stat-val" id=
+=3D"ps-height">=E2=80=94</div><div class=3D"profile-stat-lbl">Height</div><=
+/div>
+            <div class=3D"profile-stat"><div class=3D"profile-stat-val" id=
+=3D"ps-weight">10 kg</div><div class=3D"profile-stat-lbl">Weight</div></div=
+>
+            <div class=3D"profile-stat"><div class=3D"profile-stat-val" id=
+=3D"ps-blood">=E2=80=94</div><div class=3D"profile-stat-lbl">Blood type</di=
+v></div>
+          </div>
+          <button class=3D"edit-profile-btn"><i class=3D"ti ti-edit"></i> E=
+dit profile</button>
+        </div>
+
+        <!-- =F0=9F=8C=9F AUTO FOOD SUGGESTIONS -->
+        <div class=3D"sh"><div class=3D"sh-title" id=3D"food-section-title"=
+>=F0=9F=A7=92 Healthy foods =E2=80=94 3=E2=80=936 years</div></div>
+        <div id=3D"profile-food-section">
+    <div class=3D"food-band-header" style=3D"background:#E7F0FA">
+      <div class=3D"food-band-icon" style=3D"background:#E7F0FA;color:#3D7F=
+BF">=F0=9F=A7=92</div>
+      <div>
+        <div class=3D"food-band-title" style=3D"color:#3D7FBF">Rayyan is in=
+ the Preschool stage</div>
+        <div class=3D"food-band-sub" style=3D"color:#1A4F8A">3=E2=80=936 ye=
+ars =C2=B7 Auto-detected from birth date</div>
+      </div>
+    </div>
+
+    <div class=3D"card card-pad" style=3D"margin-bottom:14px">
+      <div class=3D"food-sub-title" style=3D"color:#3D7FBF"><i class=3D"ti =
+ti-droplet" style=3D"font-size:13px"></i> Recommended drinks</div>
+     =20
+        <div class=3D"drink-item" style=3D"background:#E7F0FA;color:#1A4F8A=
+">
+          <span style=3D"font-size:18px">=F0=9F=92=A7</span>
+          <div><div>Water =E2=80=94 primary drink all day</div><div class=
+=3D"avoid-reason" style=3D"color:#3D7FBF">Best for teeth &amp; hydration</d=
+iv></div>
+        </div>
+        <div class=3D"drink-item" style=3D"background:#E7F0FA;color:#1A4F8A=
+">
+          <span style=3D"font-size:18px">=F0=9F=A5=9B</span>
+          <div><div>Low-fat milk, 2=E2=80=933 cups/day</div><div class=3D"a=
+void-reason" style=3D"color:#3D7FBF">Calcium for growing bones</div></div>
+        </div>
+        <div class=3D"drink-item" style=3D"background:#E7F0FA;color:#1A4F8A=
+">
+          <span style=3D"font-size:18px">=F0=9F=8D=8A</span>
+          <div><div>Diluted fresh juice (occasional)</div><div class=3D"avo=
+id-reason" style=3D"color:#3D7FBF">Max 120ml, no added sugar</div></div>
+        </div>
+    </div>
+
+    <div class=3D"card card-pad" style=3D"margin-bottom:14px">
+      <div class=3D"food-sub-title" style=3D"color:#27500A"><i class=3D"ti =
+ti-check" style=3D"font-size:13px;color:var(--green)"></i> Foods to eat</di=
+v>
+      <div class=3D"food-grid">
+        <div class=3D"food-chip" style=3D"background:var(--mint2);color:var=
+(--green-dark)"><span style=3D"font-size:16px">=F0=9F=8D=9E</span>Whole gra=
+in bread &amp; rice</div><div class=3D"food-chip" style=3D"background:var(-=
+-mint2);color:var(--green-dark)"><span style=3D"font-size:16px">=F0=9F=A5=
+=A6</span>Colourful vegetables</div><div class=3D"food-chip" style=3D"backg=
+round:var(--mint2);color:var(--green-dark)"><span style=3D"font-size:16px">=
+=F0=9F=8D=8E</span>Whole fruits daily</div><div class=3D"food-chip" style=
+=3D"background:var(--mint2);color:var(--green-dark)"><span style=3D"font-si=
+ze:16px">=F0=9F=8D=97</span>Lean chicken &amp; meat</div><div class=3D"food=
+-chip" style=3D"background:var(--mint2);color:var(--green-dark)"><span styl=
+e=3D"font-size:16px">=F0=9F=A5=9A</span>Eggs</div><div class=3D"food-chip" =
+style=3D"background:var(--mint2);color:var(--green-dark)"><span style=3D"fo=
+nt-size:16px">=F0=9F=AB=98</span>Lentils &amp; beans</div>
+      </div>
+    </div>
+
+    <div class=3D"card card-pad">
+      <div class=3D"food-sub-title" style=3D"color:#8C2E2E"><i class=3D"ti =
+ti-x" style=3D"font-size:13px;color:var(--red)"></i> Foods to avoid</div>
+      <div class=3D"food-grid">
+       =20
+          <div class=3D"food-chip" style=3D"background:var(--red-soft);colo=
+r:#8C2E2E;flex-direction:column;align-items:flex-start;gap:3px">
+            <div style=3D"display:flex;align-items:center;gap:6px"><span st=
+yle=3D"font-size:16px">=F0=9F=8D=AC</span><span>Sweets &amp; sugary snacks<=
+/span></div>
+            <div style=3D"font-size:10px;color:#A04444;font-weight:500;padd=
+ing-left:22px">Tooth decay &amp; energy spikes</div>
+          </div>
+          <div class=3D"food-chip" style=3D"background:var(--red-soft);colo=
+r:#8C2E2E;flex-direction:column;align-items:flex-start;gap:3px">
+            <div style=3D"display:flex;align-items:center;gap:6px"><span st=
+yle=3D"font-size:16px">=F0=9F=A5=A4</span><span>Carbonated soft drinks</spa=
+n></div>
+            <div style=3D"font-size:10px;color:#A04444;font-weight:500;padd=
+ing-left:22px">No nutritional value</div>
+          </div>
+          <div class=3D"food-chip" style=3D"background:var(--red-soft);colo=
+r:#8C2E2E;flex-direction:column;align-items:flex-start;gap:3px">
+            <div style=3D"display:flex;align-items:center;gap:6px"><span st=
+yle=3D"font-size:16px">=F0=9F=8D=9F</span><span>Deep-fried fast food</span>=
+</div>
+            <div style=3D"font-size:10px;color:#A04444;font-weight:500;padd=
+ing-left:22px">High saturated fat</div>
+          </div>
+          <div class=3D"food-chip" style=3D"background:var(--red-soft);colo=
+r:#8C2E2E;flex-direction:column;align-items:flex-start;gap:3px">
+            <div style=3D"display:flex;align-items:center;gap:6px"><span st=
+yle=3D"font-size:16px">=F0=9F=8C=AD</span><span>Processed deli meats</span>=
+</div>
+            <div style=3D"font-size:10px;color:#A04444;font-weight:500;padd=
+ing-left:22px">High sodium &amp; preservatives</div>
+          </div>
+      </div>
+    </div></div>
+
+        <!-- manage section -->
+        <div class=3D"sh" style=3D"margin-top:18px"><div class=3D"sh-title"=
+>Children</div><div class=3D"sh-link"><i class=3D"ti ti-plus"></i> Add</div=
+></div>
+        <div class=3D"card card-pad" id=3D"children-list">
+    <div class=3D"menu-row" style=3D"border-bottom:1px solid var(--line)">
+      <div class=3D"avatar" style=3D"width:34px;height:34px;font-size:14px;=
+background:#1B7A5A">R</div>
+      <div style=3D"flex:1">
+        <div style=3D"font-size:13.5px;font-weight:700;color:var(--pine)">R=
+ayyan</div>
+        <div style=3D"font-size:11px;color:var(--pine-soft)">2 yr 6 mo</div=
+>
+      </div>
+      <div style=3D"cursor:pointer;color:var(--pine-light);font-size:17px;m=
+argin-right:4px"><i class=3D"ti ti-edit"></i></div>
+      <div style=3D"cursor:pointer;color:var(--pine-light);font-size:17px">=
+<i class=3D"ti ti-trash"></i></div>
+    </div>
+    <div class=3D"menu-row" style=3D"border-bottom:none">
+      <div class=3D"avatar" style=3D"width:34px;height:34px;font-size:14px;=
+background:#3D7FBF">K</div>
+      <div style=3D"flex:1">
+        <div style=3D"font-size:13.5px;font-weight:700;color:var(--pine)">K=
+inza Fatima</div>
+        <div style=3D"font-size:11px;color:var(--pine-soft)">3 mo</div>
+      </div>
+      <div style=3D"cursor:pointer;color:var(--pine-light);font-size:17px;m=
+argin-right:4px"><i class=3D"ti ti-edit"></i></div>
+      <div style=3D"cursor:pointer;color:var(--pine-light);font-size:17px">=
+<i class=3D"ti ti-trash"></i></div>
+    </div></div>
+
+        <div class=3D"sh"><div class=3D"sh-title">Records</div></div>
+        <div class=3D"card card-pad">
+          <div class=3D"menu-row"><div class=3D"menu-icon" style=3D"backgro=
+und:var(--mint2);color:var(--green-dark)"><i class=3D"ti ti-vaccine"></i></=
+div><div class=3D"menu-title">Vaccine records</div><i class=3D"ti ti-chevro=
+n-right menu-chevron"></i></div>
+          <div class=3D"menu-row"><div class=3D"menu-icon" style=3D"backgro=
+und:var(--blue-soft);color:var(--blue)"><i class=3D"ti ti-chart-line"></i><=
+/div><div class=3D"menu-title">Growth history</div><i class=3D"ti ti-chevro=
+n-right menu-chevron"></i></div>
+          <div class=3D"menu-row"><div class=3D"menu-icon" style=3D"backgro=
+und:var(--coral-soft);color:#C06030"><i class=3D"ti ti-pill"></i></div><div=
+ class=3D"menu-title">Medicine log</div><i class=3D"ti ti-chevron-right men=
+u-chevron"></i></div>
+        </div>
+
+        <div class=3D"sh"><div class=3D"sh-title">Emergency</div></div>
+        <div class=3D"sos-card">
+          <div class=3D"sos-icon"><i class=3D"ti ti-phone-call"></i></div>
+          <div>
+            <div style=3D"font-size:14.5px;font-weight:800">Emergency conta=
+cts</div>
+            <div style=3D"font-size:11.5px;opacity:.9;margin-top:1px">Ambul=
+ance =C2=B7 Pediatrician =C2=B7 Poison control</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- =E2=96=88=E2=96=88=E2=96=88=E2=96=88 TAB BAR =E2=96=88=E2=96=88=E2=
+=96=88=E2=96=88 -->
+  <div class=3D"tabbar">
+    <div class=3D"tab-item active" id=3D"tab-home"><div class=3D"tab-icon-w=
+rap"><i class=3D"ti ti-home-2"></i></div><span class=3D"tab-label">Home</sp=
+an></div>
+    <div class=3D"tab-item" id=3D"tab-growth"><div class=3D"tab-icon-wrap">=
+<i class=3D"ti ti-chart-line"></i></div><span class=3D"tab-label">Growth</s=
+pan></div>
+    <div class=3D"tab-item" id=3D"tab-health"><div class=3D"tab-icon-wrap">=
+<i class=3D"ti ti-stethoscope"></i></div><span class=3D"tab-label">Health</=
+span></div>
+    <div class=3D"tab-item" id=3D"tab-medicine"><div class=3D"tab-icon-wrap=
+"><i class=3D"ti ti-pill"></i></div><span class=3D"tab-label">Medicine</spa=
+n></div>
+    <div class=3D"tab-item" id=3D"tab-profile"><div class=3D"tab-icon-wrap"=
+><i class=3D"ti ti-user-circle"></i></div><span class=3D"tab-label">Profile=
+</span></div>
+  </div>
+
+  <!-- =E2=96=88=E2=96=88=E2=96=88=E2=96=88 SHEETS =E2=96=88=E2=96=88=E2=96=
+=88=E2=96=88 -->
+
+  <!-- emergency -->
+  <div class=3D"sheet-overlay" id=3D"sheet-emergency">
+    <div class=3D"sheet">
+      <div class=3D"sheet-handle"></div>
+      <div class=3D"sheet-title">=F0=9F=9A=A8 Emergency contacts</div>
+      <div class=3D"emergency-row"><i class=3D"ti ti-ambulance" style=3D"fo=
+nt-size:22px;color:var(--red)"></i><div><div class=3D"emergency-num">115 / =
+999 / 1122</div><div class=3D"emergency-lbl">Emergency ambulance (Pakistan)=
+</div></div></div>
+      <div class=3D"emergency-row"><i class=3D"ti ti-stethoscope" style=3D"=
+font-size:22px;color:var(--green)"></i><div><div class=3D"emergency-num">Ad=
+d in Profile =E2=86=92 Edit</div><div class=3D"emergency-lbl">Pediatrician<=
+/div></div></div>
+      <div class=3D"emergency-row"><i class=3D"ti ti-flask" style=3D"font-s=
+ize:22px;color:var(--amber)"></i><div><div class=3D"emergency-num">021-111-=
+131-131</div><div class=3D"emergency-lbl">Poison control (Pakistan)</div></=
+div></div>
+      <button class=3D"sheet-close">Close</button>
+    </div>
+  </div>
+
+  <!-- add growth -->
+  <div class=3D"sheet-overlay" id=3D"sheet-addGrowth">
+    <div class=3D"sheet">
+      <div class=3D"sheet-handle"></div>
+      <div class=3D"sheet-title" id=3D"growth-sheet-title">Log growth =E2=
+=80=94 Rayyan</div>
+      <div class=3D"field-label">Weight (kg)</div>
+      <input class=3D"field-input" type=3D"number" id=3D"input-weight" plac=
+eholder=3D"e.g. 10">
+      <div class=3D"field-label">Height (cm) =E2=80=94 optional</div>
+      <input class=3D"field-input" type=3D"number" id=3D"input-height" plac=
+eholder=3D"e.g. 85">
+      <div class=3D"field-label">Date</div>
+      <input class=3D"field-input" type=3D"date" id=3D"input-growth-date">
+      <button class=3D"btn-primary"><i class=3D"ti ti-check"></i> Save entr=
+y</button>
+    </div>
+  </div>
+
+  <!-- add vaccine -->
+  <div class=3D"sheet-overlay" id=3D"sheet-addVax">
+    <div class=3D"sheet">
+      <div class=3D"sheet-handle"></div>
+      <div class=3D"sheet-title" id=3D"vax-sheet-title">Add vaccine =E2=80=
+=94 Rayyan</div>
+      <div class=3D"field-label">Vaccine name</div>
+      <input class=3D"field-input" type=3D"text" id=3D"input-vax-name" plac=
+eholder=3D"e.g. MMR, BCG, OPV">
+      <div class=3D"field-label">Status</div>
+      <select class=3D"field-select" id=3D"input-vax-status">
+        <option value=3D"done">Given =E2=9C=93</option>
+        <option value=3D"due">Due soon</option>
+        <option value=3D"upcoming">Upcoming</option>
+      </select>
+      <div class=3D"field-label">Date</div>
+      <input class=3D"field-input" type=3D"date" id=3D"input-vax-date">
+      <button class=3D"btn-primary"><i class=3D"ti ti-check"></i> Save vacc=
+ine</button>
+    </div>
+  </div>
+
+  <!-- add medicine -->
+  <div class=3D"sheet-overlay" id=3D"sheet-addMed">
+    <div class=3D"sheet">
+      <div class=3D"sheet-handle"></div>
+      <div class=3D"sheet-title" id=3D"med-sheet-title">Add medicine =E2=80=
+=94 Rayyan</div>
+      <div class=3D"field-label">Medicine name</div>
+      <input class=3D"field-input" type=3D"text" id=3D"input-med-name" plac=
+eholder=3D"e.g. Cetirizine, Paracetamol">
+      <div class=3D"field-label">Dose</div>
+      <input class=3D"field-input" type=3D"text" id=3D"input-med-dose" plac=
+eholder=3D"e.g. 2.5 mg">
+      <div class=3D"field-label">Time</div>
+      <input class=3D"field-input" type=3D"time" id=3D"input-med-time">
+      <button class=3D"btn-primary"><i class=3D"ti ti-check"></i> Save remi=
+nder</button>
+    </div>
+  </div>
+
+  <!-- edit child -->
+  <div class=3D"sheet-overlay" id=3D"sheet-editChild">
+    <div class=3D"sheet">
+      <div class=3D"sheet-handle"></div>
+      <div class=3D"sheet-title">Edit child profile</div>
+      <div class=3D"field-label">Name</div>
+      <input class=3D"field-input" type=3D"text" id=3D"input-child-name" pl=
+aceholder=3D"Child's name">
+      <div class=3D"field-label">Date of birth</div>
+      <input class=3D"field-input" type=3D"date" id=3D"input-child-dob">
+      <div class=3D"field-label">Gender</div>
+      <select class=3D"field-select" id=3D"input-child-gender">
+        <option value=3D"">Select=E2=80=A6</option>
+        <option value=3D"Male">Male</option>
+        <option value=3D"Female">Female</option>
+      </select>
+      <div class=3D"field-label">Blood type</div>
+      <select class=3D"field-select" id=3D"input-child-blood">
+        <option value=3D"">Unknown</option>
+        <option value=3D"O+">O+</option><option value=3D"O-">O-</option>
+        <option value=3D"A+">A+</option><option value=3D"A-">A-</option>
+        <option value=3D"B+">B+</option><option value=3D"B-">B-</option>
+        <option value=3D"AB+">AB+</option><option value=3D"AB-">AB-</option=
+>
+      </select>
+      <button class=3D"btn-primary"><i class=3D"ti ti-check"></i> Save prof=
+ile</button>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+</body></html>
+------MultipartBoundary--Js3oCok482xiac5K1FG2Z9skcxVQvhODYBEOjPUcT2----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/2.47.0/tabler-icons.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--Js3oCok482xiac5K1FG2Z9skcxVQvhODYBEOjPUcT2----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-fee1dbfa-81b6-4b4e-9c1d-94568c8963c7@mhtml.blink
+
+@charset "utf-8";
+
+:root { --pine: #0D2B22; --pine-soft: #3D5C53; --pine-light: #6B8F84; --gre=
+en: #1B7A5A; --green-dark: #125C42; --green-light: #34A87A; --mint: #F0F9F4=
+; --mint2: #E2F5EC; --mint3: #C8EDD9; --coral: #E8825A; --coral-soft: #FBE9=
+E0; --amber: #D98A1F; --amber-soft: #FAF0DD; --red: #C84B4B; --red-soft: #F=
+BE7E7; --blue: #3D7FBF; --blue-soft: #E7F0FA; --purple: #7C5CBF; --purple-s=
+oft: #EEE9FB; --line: #E8EDE9; --line2: #D4DDD6; --white: #FFFFFF; --card-s=
+hadow: 0 2px 8px rgba(13,43,34,0.06),0 1px 2px rgba(13,43,34,0.04); --card-=
+shadow-hover: 0 8px 24px rgba(13,43,34,0.12),0 2px 4px rgba(13,43,34,0.06);=
+ }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; -webkit-tap-highligh=
+t-color: transparent; }
+
+html, body { height: 100%; font-family: -apple-system, BlinkMacSystemFont, =
+"SF Pro Text", "Segoe UI", sans-serif; background: rgb(200, 217, 210); disp=
+lay: flex; align-items: center; justify-content: center; min-height: 100vh;=
+ padding: 20px 0px; color: var(--pine); }
+
+.device { width: 390px; height: 800px; background: var(--mint); border-radi=
+us: 50px; border: 9px solid rgb(17, 17, 17); box-shadow: rgba(0, 0, 0, 0.4)=
+ 0px 40px 80px, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset; overflow: h=
+idden; position: relative; display: flex; flex-direction: column; }
+
+.notch { position: absolute; top: 9px; left: 50%; transform: translateX(-50=
+%); width: 110px; height: 26px; background: rgb(17, 17, 17); border-radius:=
+ 0px 0px 18px 18px; z-index: 50; }
+
+.statusbar { height: 46px; flex-shrink: 0; display: flex; align-items: flex=
+-end; justify-content: space-between; padding: 0px 24px 7px; font-size: 13p=
+x; font-weight: 700; color: var(--pine); position: relative; z-index: 10; b=
+ackground: transparent; }
+
+.statusbar-icons { display: flex; align-items: center; gap: 4px; }
+
+.screen { flex: 1 1 0%; display: none; flex-direction: column; overflow: hi=
+dden; position: relative; }
+
+.screen.active { display: flex; }
+
+.scroll { flex: 1 1 0%; overflow-y: auto; scrollbar-width: none; }
+
+.scroll::-webkit-scrollbar { display: none; }
+
+.home-header { background: linear-gradient(160deg, rgb(18, 92, 66) 0%, rgb(=
+27, 122, 90) 60%, rgb(42, 155, 111) 100%); padding: 14px 20px 20px; flex-sh=
+rink: 0; position: relative; overflow: hidden; }
+
+.home-header::after { content: ""; position: absolute; top: -40px; right: -=
+40px; width: 160px; height: 160px; border-radius: 50%; background: rgba(255=
+, 255, 255, 0.05); }
+
+.home-header::before { content: ""; position: absolute; bottom: -20px; left=
+: 30px; width: 100px; height: 100px; border-radius: 50%; background: rgba(2=
+55, 255, 255, 0.04); }
+
+.header-top { display: flex; align-items: center; justify-content: space-be=
+tween; margin-bottom: 16px; }
+
+.greet-label { font-size: 12px; color: rgba(255, 255, 255, 0.7); font-weigh=
+t: 500; letter-spacing: 0.2px; }
+
+.greet-name { font-size: 22px; font-weight: 800; color: rgb(255, 255, 255);=
+ letter-spacing: -0.4px; margin-top: 1px; }
+
+.header-btn { width: 40px; height: 40px; border-radius: 13px; background: r=
+gba(255, 255, 255, 0.15); display: flex; align-items: center; justify-conte=
+nt: center; color: rgb(255, 255, 255); font-size: 19px; cursor: pointer; bo=
+rder: 1px solid rgba(255, 255, 255, 0.2); backdrop-filter: blur(4px); }
+
+.header-btn .dot { position: absolute; top: 8px; right: 9px; width: 7px; he=
+ight: 7px; border-radius: 50%; background: var(--coral); border: 1.5px soli=
+d rgb(27, 122, 90); }
+
+.child-row { display: flex; gap: 10px; overflow-x: auto; scrollbar-width: n=
+one; position: relative; z-index: 1; }
+
+.child-row::-webkit-scrollbar { display: none; }
+
+.child-chip { display: flex; align-items: center; gap: 9px; padding: 7px 14=
+px 7px 7px; border-radius: 26px; border: 1.5px solid rgba(255, 255, 255, 0.=
+25); background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px); flex=
+-shrink: 0; cursor: pointer; transition: 0.18s; }
+
+.child-chip.active { background: rgba(255, 255, 255, 0.95); border-color: t=
+ransparent; box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 12px; }
+
+.child-chip.active .chip-name { color: var(--green-dark); }
+
+.child-chip.active .chip-age { color: var(--pine-soft); }
+
+.chip-name { font-size: 13px; font-weight: 700; color: rgb(255, 255, 255); =
+}
+
+.chip-age { font-size: 10.5px; color: rgba(255, 255, 255, 0.75); display: b=
+lock; margin-top: -1px; }
+
+.add-chip { width: 42px; height: 42px; border-radius: 50%; border: 1.5px da=
+shed rgba(255, 255, 255, 0.4); display: flex; align-items: center; justify-=
+content: center; color: rgba(255, 255, 255, 0.6); font-size: 20px; flex-shr=
+ink: 0; cursor: pointer; }
+
+.avatar { border-radius: 50%; display: flex; align-items: center; justify-c=
+ontent: center; font-weight: 800; color: rgb(255, 255, 255); flex-shrink: 0=
+; }
+
+.alert-banner { border-radius: 18px; padding: 13px 15px; display: flex; gap=
+: 11px; align-items: center; margin-bottom: 16px; }
+
+.alert-icon { width: 36px; height: 36px; border-radius: 11px; display: flex=
+; align-items: center; justify-content: center; font-size: 18px; flex-shrin=
+k: 0; }
+
+.alert-title { font-size: 13px; font-weight: 700; }
+
+.alert-text { font-size: 11.5px; margin-top: 2px; line-height: 1.45; opacit=
+y: 0.85; }
+
+.quick-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10=
+px; }
+
+.quick-item { display: flex; flex-direction: column; align-items: center; g=
+ap: 8px; cursor: pointer; }
+
+.quick-icon { width: 56px; height: 56px; border-radius: 18px; display: flex=
+; align-items: center; justify-content: center; font-size: 23px; box-shadow=
+: var(--card-shadow); transition: transform 0.15s; }
+
+.quick-icon:active { transform: scale(0.93); }
+
+.quick-label { font-size: 10px; font-weight: 700; color: var(--pine-soft); =
+text-align: center; line-height: 1.3; letter-spacing: 0.1px; }
+
+.reminder-row { display: flex; align-items: center; gap: 11px; padding: 13p=
+x 0px; border-bottom: 1px solid var(--line); }
+
+.reminder-row:last-child { border-bottom-width: medium; border-bottom-style=
+: none; border-bottom-color: currentcolor; padding-bottom: 0px; }
+
+.reminder-time { width: 52px; flex-shrink: 0; font-size: 11.5px; font-weigh=
+t: 700; color: var(--green-dark); }
+
+.reminder-pulse { width: 8px; height: 8px; border-radius: 50%; flex-shrink:=
+ 0; }
+
+.reminder-title { font-size: 13.5px; font-weight: 700; color: var(--pine); =
+}
+
+.reminder-sub { font-size: 11px; color: var(--pine-soft); margin-top: 1px; =
+}
+
+.check-circle { width: 28px; height: 28px; border-radius: 50%; border: 2px =
+solid var(--line2); flex-shrink: 0; display: flex; align-items: center; jus=
+tify-content: center; font-size: 14px; }
+
+.check-circle.done { background: var(--green); border-color: var(--green); =
+color: rgb(255, 255, 255); }
+
+.stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+.stat-card { background: var(--white); border-radius: 18px; border: 1px sol=
+id var(--line); padding: 14px; box-shadow: var(--card-shadow); }
+
+.stat-icon-wrap { width: 30px; height: 30px; border-radius: 9px; display: f=
+lex; align-items: center; justify-content: center; font-size: 15px; margin-=
+bottom: 10px; }
+
+.stat-val { font-size: 19px; font-weight: 800; color: var(--pine); letter-s=
+pacing: -0.3px; }
+
+.stat-lbl { font-size: 11px; color: var(--pine-soft); margin-top: 2px; font=
+-weight: 500; }
+
+.card { background: var(--white); border-radius: 18px; border: 1px solid va=
+r(--line); box-shadow: var(--card-shadow); }
+
+.card-pad { padding: 16px; }
+
+.sh { display: flex; align-items: center; justify-content: space-between; m=
+argin: 22px 0px 11px; }
+
+.sh:first-child { margin-top: 0px; }
+
+.sh-title { font-size: 15.5px; font-weight: 800; color: var(--pine); letter=
+-spacing: -0.2px; }
+
+.sh-link { font-size: 12px; font-weight: 700; color: var(--green-dark); cur=
+sor: pointer; display: flex; align-items: center; gap: 2px; }
+
+.screen-header { background: var(--white); padding: 14px 20px; flex-shrink:=
+ 0; border-bottom: 1px solid var(--line); display: flex; align-items: cente=
+r; gap: 11px; }
+
+.back-btn { width: 36px; height: 36px; border-radius: 11px; background: var=
+(--mint2); display: flex; align-items: center; justify-content: center; col=
+or: var(--pine); font-size: 18px; cursor: pointer; flex-shrink: 0; border-w=
+idth: medium; border-style: none; border-color: currentcolor; border-image:=
+ initial; }
+
+.screen-title { font-size: 17px; font-weight: 800; color: var(--pine); lett=
+er-spacing: -0.3px; }
+
+.screen-sub { font-size: 11.5px; color: var(--pine-soft); margin-top: 1px; =
+font-weight: 500; }
+
+.seg { display: flex; background: var(--mint2); border-radius: 14px; paddin=
+g: 3px; margin-bottom: 18px; border: 1px solid var(--line); }
+
+.seg-tab { flex: 1 1 0%; text-align: center; padding: 9px 4px; font-size: 1=
+2px; font-weight: 700; border-radius: 11px; cursor: pointer; color: var(--p=
+ine-soft); transition: 0.15s; letter-spacing: 0.1px; }
+
+.seg-tab.active { background: var(--white); color: var(--green-dark); box-s=
+hadow: rgba(0, 0, 0, 0.1) 0px 1px 4px; }
+
+.chart-legend { display: flex; gap: 14px; margin-bottom: 8px; }
+
+.legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+.legend-label { font-size: 11px; color: var(--pine-soft); font-weight: 600;=
+ display: flex; align-items: center; gap: 5px; }
+
+.pct-pill { display: inline-flex; align-items: center; gap: 6px; font-size:=
+ 11.5px; font-weight: 700; padding: 5px 12px; border-radius: 20px; margin-t=
+op: 12px; }
+
+.log-row { display: flex; align-items: center; gap: 11px; padding: 12px 0px=
+; border-bottom: 1px solid var(--line); }
+
+.log-row:last-child { border-bottom-width: medium; border-bottom-style: non=
+e; border-bottom-color: currentcolor; padding-bottom: 0px; }
+
+.log-icon { width: 38px; height: 38px; border-radius: 12px; display: flex; =
+align-items: center; justify-content: center; font-size: 17px; flex-shrink:=
+ 0; }
+
+.log-title { font-size: 13.5px; font-weight: 700; color: var(--pine); }
+
+.log-sub { font-size: 11.5px; color: var(--pine-soft); margin-top: 1px; }
+
+.log-val { font-size: 13px; font-weight: 800; color: var(--pine); text-alig=
+n: right; }
+
+.log-date { font-size: 10.5px; color: var(--pine-soft); text-align: right; =
+margin-top: 2px; }
+
+.vax-row { display: flex; align-items: center; gap: 11px; padding: 13px 0px=
+; border-bottom: 1px solid var(--line); }
+
+.vax-row:last-child { border-bottom-width: medium; border-bottom-style: non=
+e; border-bottom-color: currentcolor; padding-bottom: 0px; }
+
+.vax-dot { width: 26px; height: 26px; border-radius: 50%; display: flex; al=
+ign-items: center; justify-content: center; font-size: 13px; flex-shrink: 0=
+; }
+
+.vax-name { font-size: 13.5px; font-weight: 700; color: var(--pine); }
+
+.vax-sub { font-size: 11.5px; color: var(--pine-soft); margin-top: 1px; }
+
+.badge { font-size: 10px; font-weight: 800; padding: 3px 9px; border-radius=
+: 10px; flex-shrink: 0; letter-spacing: 0.1px; }
+
+.illness-card { background: var(--white); border: 1px solid var(--line); bo=
+rder-radius: 18px; padding: 14px; margin-bottom: 10px; cursor: pointer; box=
+-shadow: var(--card-shadow); }
+
+.illness-head { display: flex; align-items: center; justify-content: space-=
+between; gap: 8px; }
+
+.illness-name { font-size: 14px; font-weight: 800; color: var(--pine); }
+
+.illness-body { display: none; margin-top: 12px; padding-top: 12px; border-=
+top: 1px solid var(--line); }
+
+.illness-body.open { display: block; animation: 0.2s ease 0s 1 normal none =
+running fadeIn; }
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; transform: translateY(-4px); }
+  100% { opacity: 1; transform: none; }
+}
+
+.ill-key { font-size: 10px; font-weight: 800; color: var(--pine-soft); text=
+-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; margin-to=
+p: 10px; }
+
+.ill-key:first-child { margin-top: 0px; }
+
+.ill-val { font-size: 12px; color: var(--pine); line-height: 1.6; }
+
+.warn-box { border-radius: 13px; padding: 11px 13px; margin-top: 10px; }
+
+.danger-box { border-radius: 13px; padding: 11px 13px; margin-top: 8px; }
+
+.search-bar { display: flex; align-items: center; gap: 9px; background: var=
+(--white); border: 1px solid var(--line); border-radius: 15px; padding: 12p=
+x 15px; margin-bottom: 16px; box-shadow: var(--card-shadow); }
+
+.search-bar i { color: var(--pine-soft); font-size: 17px; }
+
+.search-bar input { border-width: medium; border-style: none; border-color:=
+ currentcolor; border-image: initial; outline: none; flex: 1 1 0%; font-siz=
+e: 13.5px; color: var(--pine); background: transparent; font-family: inheri=
+t; }
+
+.med-card { background: var(--white); border-radius: 18px; border: 1px soli=
+d var(--line); padding: 14px; margin-bottom: 10px; cursor: pointer; box-sha=
+dow: var(--card-shadow); }
+
+.med-header { display: flex; align-items: center; gap: 11px; }
+
+.med-icon { width: 42px; height: 42px; border-radius: 13px; display: flex; =
+align-items: center; justify-content: center; font-size: 20px; flex-shrink:=
+ 0; }
+
+.med-name { font-size: 14px; font-weight: 800; color: var(--pine); }
+
+.med-generic { font-size: 11px; color: var(--pine-soft); margin-top: 1px; f=
+ont-weight: 500; }
+
+.med-detail { display: none; margin-top: 12px; padding-top: 12px; border-to=
+p: 1px solid var(--line); animation: 0.2s ease 0s 1 normal none running fad=
+eIn; }
+
+.med-detail.open { display: block; }
+
+.med-row { display: flex; gap: 8px; margin-top: 8px; }
+
+.med-row:first-child { margin-top: 0px; }
+
+.med-key { font-size: 10px; font-weight: 800; color: var(--pine-soft); min-=
+width: 80px; flex-shrink: 0; text-transform: uppercase; letter-spacing: 0.3=
+px; padding-top: 1px; }
+
+.med-val { font-size: 12px; color: var(--pine); line-height: 1.6; flex: 1 1=
+ 0%; }
+
+.consult-pill { background: var(--mint2); border-radius: 12px; padding: 10p=
+x 13px; margin-top: 10px; display: flex; gap: 9px; align-items: flex-start;=
+ }
+
+.consult-text { font-size: 11.5px; color: var(--green-dark); font-weight: 6=
+00; line-height: 1.5; }
+
+.active-med { background: var(--white); border: 1px solid var(--line); bord=
+er-radius: 16px; padding: 13px; margin-bottom: 9px; display: flex; align-it=
+ems: center; gap: 11px; box-shadow: var(--card-shadow); }
+
+.active-med-icon { width: 44px; height: 44px; border-radius: 13px; display:=
+ flex; align-items: center; justify-content: center; font-size: 20px; flex-=
+shrink: 0; }
+
+.toggle { width: 44px; height: 26px; border-radius: 14px; position: relativ=
+e; cursor: pointer; flex-shrink: 0; transition: background 0.2s; }
+
+.toggle::after { content: ""; position: absolute; width: 20px; height: 20px=
+; border-radius: 50%; background: rgb(255, 255, 255); top: 3px; transition:=
+ left 0.2s; box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 3px; }
+
+.toggle.on { background: var(--green); }
+
+.toggle.on::after { left: 21px; }
+
+.toggle.off { background: var(--line2); }
+
+.toggle.off::after { left: 3px; }
+
+.profile-hero { background: linear-gradient(160deg, rgb(18, 92, 66) 0%, rgb=
+(27, 122, 90) 60%, rgb(42, 155, 111) 100%); border-radius: 22px; padding: 2=
+2px; display: flex; flex-direction: column; align-items: center; margin-bot=
+tom: 16px; position: relative; overflow: hidden; }
+
+.profile-hero::after { content: ""; position: absolute; top: -30px; right: =
+-30px; width: 120px; height: 120px; border-radius: 50%; background: rgba(25=
+5, 255, 255, 0.06); }
+
+.profile-name { font-size: 18px; font-weight: 800; color: rgb(255, 255, 255=
+); margin-top: 12px; letter-spacing: -0.3px; }
+
+.profile-sub { font-size: 12px; color: rgba(255, 255, 255, 0.75); margin-to=
+p: 2px; font-weight: 500; }
+
+.profile-stats-row { display: flex; width: 100%; margin-top: 16px; backgrou=
+nd: rgba(255, 255, 255, 0.12); border-radius: 14px; overflow: hidden; }
+
+.profile-stat { flex: 1 1 0%; text-align: center; padding: 11px 6px; border=
+-right: 1px solid rgba(255, 255, 255, 0.15); }
+
+.profile-stat:last-child { border-right-width: medium; border-right-style: =
+none; border-right-color: currentcolor; }
+
+.profile-stat-val { font-size: 15px; font-weight: 800; color: rgb(255, 255,=
+ 255); }
+
+.profile-stat-lbl { font-size: 9.5px; color: rgba(255, 255, 255, 0.7); marg=
+in-top: 2px; font-weight: 600; text-transform: uppercase; letter-spacing: 0=
+.3px; }
+
+.edit-profile-btn { width: 100%; margin-top: 14px; background: rgba(255, 25=
+5, 255, 0.2); border: 1px solid rgba(255, 255, 255, 0.3); border-radius: 12=
+px; padding: 11px; color: rgb(255, 255, 255); font-size: 13px; font-weight:=
+ 700; font-family: inherit; cursor: pointer; display: flex; align-items: ce=
+nter; justify-content: center; gap: 7px; backdrop-filter: blur(4px); }
+
+.food-band-header { border-radius: 16px; padding: 14px 15px; display: flex;=
+ align-items: center; gap: 12px; margin-bottom: 14px; }
+
+.food-band-icon { width: 42px; height: 42px; border-radius: 13px; display: =
+flex; align-items: center; justify-content: center; font-size: 22px; flex-s=
+hrink: 0; }
+
+.food-band-title { font-size: 14px; font-weight: 800; }
+
+.food-band-sub { font-size: 11.5px; margin-top: 2px; font-weight: 500; }
+
+.food-sub-section { margin-bottom: 14px; }
+
+.food-sub-title { font-size: 11px; font-weight: 800; text-transform: upperc=
+ase; letter-spacing: 0.5px; margin-bottom: 8px; display: flex; align-items:=
+ center; gap: 5px; }
+
+.food-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; }
+
+.food-chip { display: flex; align-items: center; gap: 7px; padding: 9px 11p=
+x; border-radius: 13px; font-size: 11.5px; font-weight: 700; line-height: 1=
+.3; }
+
+.food-chip i { font-size: 14px; flex-shrink: 0; }
+
+.drink-item { display: flex; align-items: center; gap: 9px; padding: 10px 1=
+3px; border-radius: 13px; font-size: 12px; font-weight: 700; margin-bottom:=
+ 7px; }
+
+.avoid-reason { font-size: 10.5px; font-weight: 500; opacity: 0.8; margin-t=
+op: 1px; }
+
+.menu-row { display: flex; align-items: center; gap: 11px; padding: 14px 0p=
+x; border-bottom: 1px solid var(--line); cursor: pointer; }
+
+.menu-row:last-child { border-bottom-width: medium; border-bottom-style: no=
+ne; border-bottom-color: currentcolor; }
+
+.menu-icon { width: 36px; height: 36px; border-radius: 11px; display: flex;=
+ align-items: center; justify-content: center; font-size: 16px; flex-shrink=
+: 0; }
+
+.menu-title { font-size: 13.5px; font-weight: 700; color: var(--pine); flex=
+: 1 1 0%; }
+
+.menu-chevron { color: var(--pine-light); font-size: 16px; }
+
+.sos-card { background: var(--red); border-radius: 18px; padding: 16px 18px=
+; color: rgb(255, 255, 255); display: flex; align-items: center; gap: 13px;=
+ cursor: pointer; box-shadow: rgba(200, 75, 75, 0.35) 0px 6px 20px; margin-=
+bottom: 18px; }
+
+.sos-icon { width: 46px; height: 46px; border-radius: 14px; background: rgb=
+a(255, 255, 255, 0.2); display: flex; align-items: center; justify-content:=
+ center; font-size: 22px; flex-shrink: 0; }
+
+.tabbar { position: absolute; bottom: 0px; left: 0px; right: 0px; height: 8=
+2px; background: rgba(255, 255, 255, 0.97); backdrop-filter: blur(16px); bo=
+rder-top: 1px solid var(--line); display: flex; align-items: flex-start; pa=
+dding-top: 8px; z-index: 40; }
+
+.tab-item { flex: 1 1 0%; display: flex; flex-direction: column; align-item=
+s: center; gap: 3px; cursor: pointer; color: var(--pine-light); transition:=
+ 0.18s; }
+
+.tab-item .tab-icon-wrap { width: 38px; height: 30px; border-radius: 14px; =
+display: flex; align-items: center; justify-content: center; transition: 0.=
+18s; }
+
+.tab-item.active .tab-icon-wrap { background: var(--mint2); }
+
+.tab-item.active { color: var(--green-dark); }
+
+.tab-item i { font-size: 21px; }
+
+.tab-label { font-size: 9.5px; font-weight: 700; letter-spacing: 0.2px; }
+
+.sheet-overlay { position: absolute; inset: 0px; background: rgba(13, 43, 3=
+4, 0.5); z-index: 60; display: none; align-items: flex-end; backdrop-filter=
+: blur(2px); }
+
+.sheet-overlay.open { display: flex; animation: 0.2s ease 0s 1 normal none =
+running overlayIn; }
+
+@keyframes overlayIn {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.sheet { background: var(--white); width: 100%; border-radius: 26px 26px 0p=
+x 0px; padding: 10px 20px 28px; max-height: 82%; overflow-y: auto; animatio=
+n: 0.25s ease 0s 1 normal none running sheetIn; }
+
+@keyframes sheetIn {=20
+  0% { transform: translateY(30px); opacity: 0.5; }
+  100% { transform: none; opacity: 1; }
+}
+
+.sheet-handle { width: 38px; height: 4px; background: var(--line2); border-=
+radius: 3px; margin: 0px auto 16px; }
+
+.sheet-title { font-size: 17px; font-weight: 800; color: var(--pine); margi=
+n-bottom: 16px; letter-spacing: -0.2px; }
+
+.emergency-row { display: flex; align-items: center; gap: 12px; padding: 13=
+px; background: var(--mint2); border-radius: 15px; margin-bottom: 10px; bor=
+der: 1px solid var(--line); }
+
+.emergency-num { font-size: 15px; font-weight: 800; color: var(--pine); }
+
+.emergency-lbl { font-size: 11px; color: var(--pine-soft); margin-top: 2px;=
+ }
+
+.sheet-close { width: 100%; background: var(--mint2); border: 1px solid var=
+(--line); border-radius: 14px; padding: 14px; font-size: 13.5px; font-weigh=
+t: 700; color: var(--pine); margin-top: 8px; cursor: pointer; font-family: =
+inherit; letter-spacing: 0.1px; }
+
+.field-label { font-size: 10.5px; font-weight: 800; color: var(--pine-soft)=
+; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 5px; }
+
+.field-input { width: 100%; padding: 12px 14px; border-radius: 13px; border=
+: 1.5px solid var(--line); font-size: 14px; color: var(--pine); outline: no=
+ne; font-family: inherit; background: var(--mint); transition: border-color=
+ 0.15s; margin-bottom: 14px; }
+
+.field-input:focus { border-color: var(--green); background: var(--white); =
+}
+
+.field-select { width: 100%; padding: 12px 14px; border-radius: 13px; borde=
+r: 1.5px solid var(--line); font-size: 14px; color: var(--pine); outline: n=
+one; font-family: inherit; background: var(--mint); margin-bottom: 14px; cu=
+rsor: pointer; }
+
+.btn-primary { width: 100%; padding: 14px; border-radius: 15px; background:=
+ linear-gradient(135deg,var(--green-dark),var(--green)); color: rgb(255, 25=
+5, 255); font-size: 14px; font-weight: 800; border-width: medium; border-st=
+yle: none; border-color: currentcolor; border-image: initial; cursor: point=
+er; font-family: inherit; letter-spacing: 0.1px; box-shadow: rgba(27, 122, =
+90, 0.35) 0px 4px 14px; transition: opacity 0.15s; }
+
+.btn-primary:active { opacity: 0.85; }
+
+.btn-secondary { width: 100%; padding: 12px; border-radius: 13px; backgroun=
+d: var(--mint2); border: 1px solid var(--line); color: var(--green-dark); f=
+ont-size: 13.5px; font-weight: 700; cursor: pointer; font-family: inherit; =
+margin-top: 8px; }
+
+.pad { padding: 16px 18px 100px; }
+
+.empty-msg { font-size: 13px; color: var(--pine-soft); padding: 12px 0px; l=
+ine-height: 1.6; }
+
+.bubble-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1=
+2px; margin-bottom: 6px; }
+
+.bubble { display: flex; flex-direction: column; align-items: center; gap: =
+8px; cursor: pointer; transition: transform 0.15s; }
+
+.bubble:active { transform: scale(0.92); }
+
+.bubble-circle { width: 64px; height: 64px; border-radius: 50%; display: fl=
+ex; align-items: center; justify-content: center; font-size: 28px; box-shad=
+ow: rgba(0, 0, 0, 0.08) 0px 4px 14px; border: 2px solid transparent; transi=
+tion: 0.15s; }
+
+.bubble.selected .bubble-circle { border-color: currentcolor; box-shadow: r=
+gba(0, 0, 0, 0.16) 0px 6px 18px; transform: scale(1.05); }
+
+.bubble-label { font-size: 11px; font-weight: 700; color: var(--pine-soft);=
+ text-align: center; }
+
+.bubble.selected .bubble-label { color: var(--pine); font-weight: 800; }
+
+.symptom-result-card { background: var(--white); border-radius: 18px; borde=
+r: 2px solid transparent; padding: 14px; margin-bottom: 10px; box-shadow: v=
+ar(--card-shadow); animation: 0.25s ease 0s 1 normal none running fadeIn; }
+
+.symptom-result-header { display: flex; align-items: center; gap: 11px; mar=
+gin-bottom: 10px; }
+
+.symptom-result-icon { width: 42px; height: 42px; border-radius: 13px; disp=
+lay: flex; align-items: center; justify-content: center; font-size: 20px; f=
+lex-shrink: 0; }
+
+.symptom-result-name { font-size: 14px; font-weight: 800; color: var(--pine=
+); }
+
+.symptom-result-generic { font-size: 11px; color: var(--pine-soft); margin-=
+top: 1px; }
+
+.flagged-banner { background: var(--amber-soft); border-radius: 11px; paddi=
+ng: 9px 11px; margin-top: 8px; display: flex; gap: 7px; align-items: flex-s=
+tart; }
+
+.flagged-text { font-size: 11px; color: rgb(122, 79, 10); font-weight: 600;=
+ line-height: 1.5; }
+------MultipartBoundary--Js3oCok482xiac5K1FG2Z9skcxVQvhODYBEOjPUcT2------
